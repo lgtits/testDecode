@@ -1,0 +1,113 @@
+{
+  "result": {
+    "info": {
+      "fn_name": "main",
+      "fn_params": [
+        {
+          "param_name": "a",
+          "buffer_size": 0,
+          "compiler_type": "i32",
+          "dimension": 0,
+          "value": {
+            "raw_value": "2",
+            "hex_value": "",
+            "points_to": []
+          }
+        },
+        {
+          "param_name": "b",
+          "buffer_size": 65,
+          "compiler_type": "i32*",
+          "dimension": 1,
+          "value": {
+            "raw_value": "0x7ffee6ffac58",
+            "hex_value": "/x2/x0/x0/x0/x0/x0/x0/x0/x2/x0/x0/x0/x0/x0/x0/x0/x50/x81/xe2/x58/x6c/x73/x0/x0/x30/xa0/xa6/x56/x6c/x73/x0/x0/x40/x6d/xae/x8a/xc1/x5f/x0/x0/x8/x0/x0/x0/x2/x0/x0/x0/x78/xad/xff/xe6/xfe/x7f/x0/x0/x78/xad/xff/xe6/xfe/x7f/x0/x0",
+            "points_to": []
+          }
+        },
+        {
+          "param_name": "b",
+          "buffer_size": 65,
+          "compiler_type": "i32**",
+          "dimension": 2,
+          "one_d_length": 3,
+          "value": {
+            "raw_value": "",
+            "hex_value": "",
+            "points_to": [
+              {
+                "index": { "one_d_index": 0 },
+                "raw_value": "0x7ffee6ffac00",
+                "hex_value": "/x2/x0/x0/x0/x0/x0/x0/x0/x2/x0/x0/x0/x0/x0/x0/x0/x50/x81/xe2/x58/x6c/x73/x0/x0/x30/xa0/xa6/x56/x6c/x73/x0/x0/x40/x6d/xae/x8a/xc1/x5f/x0/x0/x8/x0/x0/x0/x2/x0/x0/x0/x78/xad/xff/xe6/xfe/x7f/x0/x0/x78/xad/xff/xe6/xfe/x7f/x0/x00",
+                "points_to": []
+              },
+              {
+                "index": { "one_d_index": 1 },
+                "raw_value": "0x7ffee6ffac00",
+                "hex_value": "/x2/x0/x0/x0/x0/x0/x0/x0/x2/x0/x0/x0/x0/x0/x0/x0/x50/x81/xe2/x58/x6c/x73/x0/x0/x30/xa0/xa6/x56/x6c/x73/x0/x0/x40/x6d/xae/x8a/xc1/x5f/x0/x0/x8/x0/x0/x0/x2/x0/x0/x0/x78/xad/xff/xe6/xfe/x7f/x0/x0/x78/xad/xff/xe6/xfe/x7f/x0/x00",
+                "points_to": []
+              },
+              {
+                "index": { "one_d_index": 2 },
+                "raw_value": "0x7ffee6ffac00",
+                "hex_value": "/x2/x0/x0/x0/x0/x0/x0/x0/x2/x0/x0/x0/x0/x0/x0/x0/x50/x81/xe2/x58/x6c/x73/x0/x0/x30/xa0/xa6/x56/x6c/x73/x0/x0/x40/x6d/xae/x8a/xc1/x5f/x0/x0/x8/x0/x0/x0/x2/x0/x0/x0/x78/xad/xff/xe6/xfe/x7f/x0/x0/x78/xad/xff/xe6/xfe/x7f/x0/x00",
+                "points_to": []
+              }
+            ]
+          }
+        },
+        {
+          "param_name": "argv",
+          "buffer_size": 65,
+          "compiler_type": "i8***",
+          "dimension": 3,
+          "one_d_length": 1,
+          "two_d_length": 3,
+          "value": {
+            "raw_value": "",
+            "hex_value": "",
+            "points_to": [
+              {
+                "index": {
+                  "one_d_index": 0,
+                  "two_d_index": 0
+                },
+                "raw_value": "0x7ffee6ffac00",
+                "hex_value": "/x2/x0/x0/x0/x0/x0/x0/x0/x2/x0/x0/x0/x0/x0/x0/x0/x50/x81/xe2/x58/x6c/x73/x0/x0/x30/xa0/xa6/x56/x6c/x73/x0/x0/x40/x6d/xae/x8a/xc1/x5f/x0/x0/x8/x0/x0/x0/x2/x0/x0/x0/x78/xad/xff/xe6/xfe/x7f/x0/x0/x78/xad/xff/xe6/xfe/x7f/x0/x00",
+                "points_to": []
+              },
+              {
+                "index": {
+                  "one_d_index": 0,
+                  "two_d_index": 1
+                },
+                "raw_value": "0x7ffee6ffac01",
+                "hex_value": "/x2/x0/x0/x0/x0/x0/x0/x0/x2/x0/x0/x0/x0/x0/x0/x0/x50/x81/xe2/x58/x6c/x73/x0/x0/x30/xa0/xa6/x56/x6c/x73/x0/x0/x40/x6d/xae/x8a/xc1/x5f/x0/x0/x8/x0/x0/x0/x2/x0/x0/x0/x78/xad/xff/xe6/xfe/x7f/x0/x0/x78/xad/xff/xe6/xfe/x7f/x0/x01",
+                "points_to": []
+              },
+              {
+                "index": {
+                  "one_d_index": 0,
+                  "two_d_index": 2
+                },
+                "raw_value": "0x7ffee6ffac02",
+                "hex_value": "/x2/x0/x0/x0/x0/x0/x0/x0/x2/x0/x0/x0/x0/x0/x0/x0/x50/x81/xe2/x58/x6c/x73/x0/x0/x30/xa0/xa6/x56/x6c/x73/x0/x0/x40/x6d/xae/x8a/xc1/x5f/x0/x0/x8/x0/x0/x0/x2/x0/x0/x0/x78/xad/xff/xe6/xfe/x7f/x0/x0/x78/xad/xff/xe6/xfe/x7f/x0/x02",
+                "points_to": []
+              }
+            ]
+          }
+        }
+      ],
+      "return_value": {
+        "buffer_size": 0,
+        "compiler_type": "i32*",
+        "dimension": 1,
+        "value": {
+          "raw_value": "0x7ffee6ffac02",
+          "hex_value": "/x2/x0/x0/x0/x0/x0/x0/x0/x2/x0/x0/x0/x0/x0/x0/x0/x50/x81/xe2/x58/x6c/x73/x0/x0/x30/xa0/xa6/x56/x6c/x73/x0/x0/x40/x6d/xae/x8a/xc1/x5f/x0/x0/x8/x0/x0/x0/x2/x0/x0/x0/x78/xad/xff/xe6/xfe/x7f/x0/x0/x78/xad/xff/xe6/xfe/x7f/x0/x02",
+          "points_to": []
+        }
+      }
+    }
+  }
+}

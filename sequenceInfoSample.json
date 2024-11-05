@@ -1,0 +1,7 @@
+{
+  "result": [
+    { "type": "software_architecture", "page": 1 },
+    { "type": "http_protocol", "page": 1 },
+    { "type": "behavior", "page": 1 }
+  ]
+}

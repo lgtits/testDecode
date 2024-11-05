@@ -1,0 +1,24 @@
+{
+  "result": {
+    "timestamp": "6344454237698",
+    "source_filename": "apr_proc_mutex_unix_setup_lock.c",
+    "has_children": true,
+    "fn_name": "apr_palloc",
+    "children": [
+      {
+        "timestamp": "",
+        "source_filename": "apr_pools.c",
+        "has_children": true,
+        "fn_name": "apr_vformatter",
+        "children": []
+      },
+      {
+        "timestamp": "",
+        "source_filename": "thread_mutex.c",
+        "has_children": true,
+        "fn_name": "__ctype_b_loc",
+        "children": []
+      }
+    ]
+  }
+}
