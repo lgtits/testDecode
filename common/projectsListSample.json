@@ -2,7 +2,7 @@
   "result": {
     "projects_list": [
       {
-        "id": "httpd",
+        "analysis_id": "httpd",
         "project_name": "apache",
         "project_version": "1.1",
         "project_language": "C",
@@ -10,7 +10,7 @@
         "analysis_release_date": "2024-10-10"
       },
       {
-        "id": "openSSH_1",
+        "analysis_id": "openSSH_1",
         "project_name": "openSSH",
         "project_version": "1.2.2",
         "project_language": "C",
