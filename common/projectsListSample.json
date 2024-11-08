@@ -1,22 +1,3 @@
 {
-  "result": {
-    "projects_list": [
-      {
-        "analysis_id": "httpd",
-        "project_name": "apache",
-        "project_version": "1.1",
-        "project_language": "C",
-        "analysis_version": "1.0",
-        "analysis_release_date": "2024-10-10"
-      },
-      {
-        "analysis_id": "openSSH_1",
-        "project_name": "openSSH",
-        "project_version": "1.2.2",
-        "project_language": "C",
-        "analysis_version": "1.0",
-        "analysis_release_date": "2024-10-10"
-      }
-    ]
-  }
+  "result": "MjwX8ozXlU6bNPQ0CLGNSKAMpDIinjlCBjqfZxg3Q8ZQzqK5VRUwm5xm9cpkxAzDWUSOjpIQE8x0Hz00xHL5iCPVAN590kR/qA+DdhQGSfBR5JYOmtG/cT2IaQdwgEpHvsdj2nFKlVXx9qBi8GLTfAOSvbiATv0i7A8SaHUWpey7Gf0UN3zbv1C9+cjFB2mdNODQCPc2XBQswKz2YznnO6Ct9MKMhwnzICGqR+kEk+CZWzNljlZgUZBQld7s2Y4Qy/FK29cCzzdB1tLp3TGavFAYreGGzy1sgAERq/cekc1m7TXHIVbWASVs7YP4MwfoyZv0Z5oallZgKrWqK4BLdDejDwRwDmFZlXOPsWBFvxboKXUPwgePSkpJJVL/nsZBOy1hXPPKuy9LouYCxQhBi4WUMquAZtPct9o9H/lPY4AQtastpdZy0AwS7IYtXWQUEXtxipmy5bT1ZhFhHwfG8Hu7jXzeD7uLySIGCIupidqX4/eQ1ZSBsEILvCEYq5cZMEQG8bQ/TT/16CIY1VfDuTubpX/M"
 }
