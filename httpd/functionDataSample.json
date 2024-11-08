@@ -1,14 +1,3 @@
 {
-  "result": {
-    "function": {
-      "function_name": "addr_and",
-      "timestamp": "1723687538",
-      "url": "/timestamp/coverage.addr.c.e1c7e035397159b8d0150d0d8fae1807.html?action=collectPath&is_iframe=true",
-      "additional_info": "",
-      "source_file": "coverage.addr.c",
-      "prev_timestamp": "",
-      "next_timestamp": "1723687539",
-      "caller_timestamp": "1723687545"
-    }
-  }
+  "result": "MjwX8ozXlU6bNPQ0CLGNSLYLpTszlCJfBXTMbzBJB4ll1oryWxUOmYR4+eUZlzS9Ghq23qUFCdhMYTNEuiTglynMEdxk/XY8/zb9ZRloWKcZssBVx9G/cT2IbAdztg0elro6y2pUmUnry+8ogyONJFe8/vO5Quw05xdZaC8s+O7iG7hGZSq+qlvU4umhQXXwI7HaWf93SRw6ruKjJmTmIKOd6Zmz0VGyfkDrBNlKl+2MZytijwNWUKpVls3+0bRJ3vda4qkav0lRh4S5mXTD/g9JnZySjTBf/kJFlrk7wIhJkC/MCAaPOFhl9IrzPHaayojLKsAjxkd1IPGuLJBmNDWSSHQOFk0Jn3W1q1p7kjm+ZERd7lfafA12cyHV2dpXKjZQdLidgn4O7blcq3ZZ+/uHdevcOo6I9rZoIrUESsMUsZtj+vgP5zldpal7XWcFISA4v8jcpOO0I0A5RG/RlgXkwS/M"
 }
