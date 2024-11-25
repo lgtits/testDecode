@@ -1,0 +1,33 @@
+{
+  "result": {
+    "info": {
+      "fn_name": "main",
+      "is_call_different": true,
+      "fn_params": [
+        {
+          "buffer_size": 0,
+          "compiler_type": "i32",
+          "dimension": 0,
+          "param_name": "param",
+          "value": {
+            "raw_value": "2",
+            "hex_value": "",
+            "points_to": [],
+            "is_string_type": false
+          }
+        },
+        {
+          "buffer_size": 64,
+          "compiler_type": "i8**",
+          "dimension": 2,
+          "one_d_length": 2,
+          "param_name": "param",
+          "value": {
+            "raw_value": "0x7fffd13f35b8",
+            "points_to": []
+          }
+        }
+      ]
+    }
+  }
+}

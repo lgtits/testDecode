@@ -1,0 +1,17 @@
+{
+  "result": {
+    "timestamp": "6344454237698",
+    "source_filename": "thread_mutex.c",
+    "has_children": true,
+    "fn_name": "apr_thread_mutex_unlock",
+    "children": [
+      {
+        "timestamp": "6352320962742",
+        "source_filename": "apr_pools.c",
+        "has_children": true,
+        "fn_name": "apr_pool_create_ex",
+        "children": []
+      }
+    ]
+  }
+}
