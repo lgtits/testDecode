@@ -1,0 +1,5 @@
+{
+  "result": {
+    "string_list": ["abc", "def", "ghi", "abcdef", "jkl"]
+  }
+}

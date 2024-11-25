@@ -1,0 +1,20 @@
+{
+  "result": {
+    "function_list": [
+      {
+        "function_name": "addr_and5",
+        "timestamp": "1723687538",
+        "url": "./test/coverage.addr.c.e1c7e035397159b8d0150d0d8fae1807.html",
+        "additional_info": "",
+        "source_file": "coverage.addr.c"
+      },
+      {
+        "function_name": "addr_and6",
+        "timestamp": "1723686850",
+        "url": "./test/coverage.addr.c.e1c7e035397159b8d0150d0d8fae1807.html",
+        "additional_info": "",
+        "source_file": "coverage.addr.c"
+      }
+    ]
+  }
+}

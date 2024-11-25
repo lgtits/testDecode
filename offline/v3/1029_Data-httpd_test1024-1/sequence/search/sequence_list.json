@@ -1,0 +1,18 @@
+{
+  "result": {
+    "sequence_list": {
+      "behavior": [
+        { "page": 1, "start_timestamp": "11111111", "end_timestamp": "11111118" },
+        { "page": 2, "start_timestamp": "18896721981025", "end_timestamp": "18896721981027" }
+      ],
+      "http_protocol": [
+        { "page": 1, "start_timestamp": "11111111", "end_timestamp": "11111118" },
+        { "page": 2, "start_timestamp": "18896721981025", "end_timestamp": "18896721981027" }
+      ],
+      "software_architecture": [
+        { "page": 1, "start_timestamp": "11111111", "end_timestamp": "11111118" },
+        { "page": 2, "start_timestamp": "18896721981025", "end_timestamp": "18896721981027" }
+      ]
+    }
+  }
+}

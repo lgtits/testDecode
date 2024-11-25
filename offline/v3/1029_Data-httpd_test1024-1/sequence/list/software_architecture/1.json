@@ -1,0 +1,508 @@
+{
+  "result": {
+    "page": 1,
+    "type": "software_architecture",
+    "sequences": [
+      {
+        "timestamp": "41053967794761",
+        "filename": "mod_log_config.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/modules/loggers"
+      },
+      {
+        "timestamp": "41039405086079",
+        "filename": "mod_so.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/modules/core"
+      },
+      {
+        "timestamp": "41030292307160",
+        "filename": "mpm_fdqueue.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41030292385372",
+        "filename": "event.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server/mpm/event"
+      },
+      {
+        "timestamp": "41033605859287",
+        "filename": "network.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033605884221",
+        "filename": "http_core.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/modules/http"
+      },
+      {
+        "timestamp": "41033605958438",
+        "filename": "process.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033606038820",
+        "filename": "http_core.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/modules/http"
+      },
+      {
+        "timestamp": "41033606096228",
+        "filename": "request.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033606120401",
+        "filename": "http_core.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/modules/http"
+      },
+      {
+        "timestamp": "41033606161249",
+        "filename": "request.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033606184226",
+        "filename": "http_core.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/modules/http"
+      },
+      {
+        "timestamp": "41033606226246",
+        "filename": "protocol.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033606299385",
+        "filename": "http_core.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/modules/http"
+      },
+      {
+        "timestamp": "41033606347331",
+        "filename": "protocol.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033606419156",
+        "filename": "http_core.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/modules/http"
+      },
+      {
+        "timestamp": "41033606462347",
+        "filename": "request.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033606485702",
+        "filename": "http_core.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/modules/http"
+      },
+      {
+        "timestamp": "41033606485755",
+        "filename": "response.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/modules/http"
+      },
+      {
+        "timestamp": "41033606523886",
+        "filename": "util_filter.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033606619753",
+        "filename": "util.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033606749592",
+        "filename": "util_filter.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033608231731",
+        "filename": "http_core.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/modules/http"
+      },
+      {
+        "timestamp": "41033608275215",
+        "filename": "util_filter.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033608433188",
+        "filename": "util.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033608672349",
+        "filename": "util_filter.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033610730713",
+        "filename": "http_core.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/modules/http"
+      },
+      {
+        "timestamp": "41033610767751",
+        "filename": "util_filter.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033610899798",
+        "filename": "util.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033610993131",
+        "filename": "util_filter.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033612038807",
+        "filename": "http_core.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/modules/http"
+      },
+      {
+        "timestamp": "41033612081339",
+        "filename": "util_filter.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033612207291",
+        "filename": "util.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033612445639",
+        "filename": "util_filter.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033614630964",
+        "filename": "http_core.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/modules/http"
+      },
+      {
+        "timestamp": "41033614669676",
+        "filename": "util_filter.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033614800462",
+        "filename": "util.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033614972794",
+        "filename": "util_filter.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033624931221",
+        "filename": "http_core.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/modules/http"
+      },
+      {
+        "timestamp": "41033624955915",
+        "filename": "http_protocol.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/modules/http"
+      },
+      {
+        "timestamp": "41033651340718",
+        "filename": "event.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server/mpm/event"
+      },
+      {
+        "timestamp": "41033651394287",
+        "filename": "config.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033651420169",
+        "filename": "event.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server/mpm/event"
+      },
+      {
+        "timestamp": "41033651465392",
+        "filename": "config.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033651489741",
+        "filename": "event.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server/mpm/event"
+      },
+      {
+        "timestamp": "41033651532857",
+        "filename": "config.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033651556854",
+        "filename": "event.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server/mpm/event"
+      },
+      {
+        "timestamp": "41033651599793",
+        "filename": "config.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033651623570",
+        "filename": "event.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server/mpm/event"
+      },
+      {
+        "timestamp": "41033651667689",
+        "filename": "mpm_common.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033651753459",
+        "filename": "event.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server/mpm/event"
+      },
+      {
+        "timestamp": "41033651797894",
+        "filename": "mpm_common.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033651872706",
+        "filename": "event.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server/mpm/event"
+      },
+      {
+        "timestamp": "41033651915904",
+        "filename": "mpm_common.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033651991829",
+        "filename": "event.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server/mpm/event"
+      },
+      {
+        "timestamp": "41033652037786",
+        "filename": "protocol.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033652124809",
+        "filename": "event.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server/mpm/event"
+      },
+      {
+        "timestamp": "41033652168858",
+        "filename": "protocol.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033652243861",
+        "filename": "event.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server/mpm/event"
+      },
+      {
+        "timestamp": "41033652287892",
+        "filename": "mpm_common.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033652364363",
+        "filename": "event.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server/mpm/event"
+      },
+      {
+        "timestamp": "41033652409017",
+        "filename": "connection.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033652433615",
+        "filename": "event.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server/mpm/event"
+      },
+      {
+        "timestamp": "41033652496904",
+        "filename": "protocol.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033652572928",
+        "filename": "config.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033652654580",
+        "filename": "main.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033652698222",
+        "filename": "mpm_unix.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033652956204",
+        "filename": "main.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033653509182",
+        "filename": "config.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033654082775",
+        "filename": "mod_so.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/modules/core"
+      },
+      {
+        "timestamp": "41033723981322",
+        "filename": "mod_so.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/modules/core"
+      },
+      {
+        "timestamp": "41033725199525",
+        "filename": "mod_authn_file.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/modules/aaa"
+      },
+      {
+        "timestamp": "41033725244600",
+        "filename": "request.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033725282946",
+        "filename": "provider.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033725784955",
+        "filename": "mod_authn_file.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/modules/aaa"
+      },
+      {
+        "timestamp": "41033725837160",
+        "filename": "config.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033725863462",
+        "filename": "mod_so.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/modules/core"
+      },
+      {
+        "timestamp": "41033725948392",
+        "filename": "mod_authn_file.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/modules/aaa"
+      },
+      {
+        "timestamp": "41033725972966",
+        "filename": "config.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033726002419",
+        "filename": "util.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033726216356",
+        "filename": "config.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033726313195",
+        "filename": "util.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033734693069",
+        "filename": "config.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033754296151",
+        "filename": "mod_so.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/modules/core"
+      },
+      {
+        "timestamp": "41033754778662",
+        "filename": "config.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033754815047",
+        "filename": "mod_so.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/modules/core"
+      },
+      {
+        "timestamp": "41033755120357",
+        "filename": "config.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033755230101",
+        "filename": "util.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033755250791",
+        "filename": "config.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033755461995",
+        "filename": "mod_authz_host.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/modules/aaa"
+      },
+      {
+        "timestamp": "41033755514680",
+        "filename": "config.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033755541329",
+        "filename": "mod_authz_host.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/modules/aaa"
+      },
+      {
+        "timestamp": "41033755585793",
+        "filename": "config.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033755612656",
+        "filename": "mod_authz_host.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/modules/aaa"
+      },
+      {
+        "timestamp": "41033755651926",
+        "filename": "request.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033755697659",
+        "filename": "provider.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033756218729",
+        "filename": "mod_authz_host.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/modules/aaa"
+      },
+      {
+        "timestamp": "41033756256700",
+        "filename": "request.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033756293700",
+        "filename": "provider.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/server"
+      },
+      {
+        "timestamp": "41033756746068",
+        "filename": "mod_authz_host.c",
+        "filepath": "/Apache2-2.4.57-gcovr-2024.8.28/source/httpd-2.4.57-gcov/modules/aaa"
+      }
+    ]
+  }
+}
