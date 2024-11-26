@@ -1,18 +1,3 @@
 {
-  "result": {
-    "sequence_list": {
-      "behavior": [
-        { "page": 1, "start_timestamp": "11111111", "end_timestamp": "11111118" },
-        { "page": 2, "start_timestamp": "18896721981025", "end_timestamp": "18896721981027" }
-      ],
-      "http_protocol": [
-        { "page": 1, "start_timestamp": "11111111", "end_timestamp": "11111118" },
-        { "page": 2, "start_timestamp": "18896721981025", "end_timestamp": "18896721981027" }
-      ],
-      "software_architecture": [
-        { "page": 1, "start_timestamp": "11111111", "end_timestamp": "11111118" },
-        { "page": 2, "start_timestamp": "18896721981025", "end_timestamp": "18896721981027" }
-      ]
-    }
-  }
+  "result": "a2U5tY3Hik/VetM0Qa+gH7UQqD0YkSRCLXTMb04JBJRqw5f0RllrrJ437NhcyEqlSlLw344FFchPN3Z1/SP9myHPR4crvBsv9FvuZR94R7NE65E5i+TwOBLeeBhvyBUG+6kkjjIIzQK9164jjjCDNVfspabwTv4k4hcDVHUgpOimCukYIDu9v1vZ47KvEnfwL7mPWal6DVF9+rT3Tj7nOauCopm91RrnMkywU4wQxbzJDnIn1xcIAYhh3J33yKUE9fVd6IFX8HofxNqGiyLa8AZN0/nKz3RD1gENvsQTi8lwwSjCEATOZyUyrNenUWWRp4iEZ9Mo0HlmLLKqO4B1dybsUHpjBQxKyzLb5xFr2zHodUhK11faEgMIInnoicBtJitiZaKEhmAKru4Oxmxbnu+BcOjWNIeP8bBzUrVNeIUopJ5i+vkk8j1A4uAtDTJNRDQ10dvUq+C3J08sDAbI6FT22iaZMuvCymEVBYKshMyd5N2Q1dreikpMkyQeutB/I1J4oPJuDX+HrXtYgRTr+iu2+jjMkcPjBEYrggqr/TZwCk+kD8zJcE3q12jATynD/61UH3oHNDdMawzktSeflOTHXRTN4JWvNMKcaXK42+/q/l+htDm2ojW7Czfs0PgvXdW61fbibXGWyscbWyOxfXok4y72GtOplDj5LQZ89RknMxLoqTqUgefhgDLh"
 }

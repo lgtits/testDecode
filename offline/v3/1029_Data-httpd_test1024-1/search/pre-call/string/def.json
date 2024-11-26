@@ -1,20 +1,3 @@
 {
-  "result": {
-    "function_list": [
-      {
-        "function_name": "addr_and3",
-        "timestamp": "1723687538",
-        "url": "./test/coverage.addr.c.e1c7e035397159b8d0150d0d8fae1807.html",
-        "additional_info": "",
-        "source_file": "coverage.addr.c"
-      },
-      {
-        "function_name": "addr_and4",
-        "timestamp": "1723686850",
-        "url": "./test/coverage.addr.c.e1c7e035397159b8d0150d0d8fae1807.html",
-        "additional_info": "",
-        "source_file": "coverage.addr.c"
-      }
-    ]
-  }
+  "result": "a2U5tY3Hik/VetM0VL+/CaQXpDYYkSRCLXTMTxdJB4ll1oryWxUOmYR4+ZsBjwn7HwyNzZQAVJ48YWtx9TX6ji3SFZ8zrxsp91npbBlvWKkDqdcTjeG/Z0OENgF6mVsLqfdj2nFYm1+xy+Y83m6BfFf//KO5XL5lsFxAOjRwq7WxTrlAYH23+VKHuu6oHXX2OOnKBPdtA18++776ZSPhOq+diZG+w1f/Kl+qR5dVnfuKVC9JgUxTRtcG0tzwyrQGy+JKqZRc92ddhcKg3HuI9xRGkreSjDhvzAESr7ldwMVx1i78HBqIaSUvv5L/DTHT4svFNZR8lhcld+z5cMIsL2bsRnonRlFZwCHE8EdzhD7lZkZb1weBR0oEMGntiZpRfCc+Y+aV1z5Pv+0bxmFaxeHScujaPNKPp703H/IZLtFA/p978uZyv3JRpL5mSGMaE2NuvIOD9b6lL1osXXmXpVLr3zexNfDL8CJdRImqhsyM8c+HnpmAtUNAgGcEgo84"
 }

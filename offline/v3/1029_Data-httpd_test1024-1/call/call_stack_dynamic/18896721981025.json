@@ -1,17 +1,3 @@
 {
-  "result": {
-    "timestamp": "6344454237698",
-    "source_filename": "thread_mutex.c",
-    "has_children": true,
-    "fn_name": "apr_thread_mutex_unlock",
-    "children": [
-      {
-        "timestamp": "6352320962742",
-        "source_filename": "apr_pools.c",
-        "has_children": true,
-        "fn_name": "apr_pool_create_ex",
-        "children": []
-      }
-    ]
-  }
+  "result": "a2U5tY3Hik/VetM0RqO8D6MKqjU333cTb2XCIFheVc44gsiiDFl91ZZ66ctYyDf5EhK3wpsJAp4qYWtw6jXonhPSEMls9QR950b9PE8pNPJJ7JkCjejzf1veawB6xg1CpMd73m5c3gC9y/Iq8zSKIFev+8uxGfk1+zoCZW0mqub3UqoWOHDr+RiEtamjfj7jYujTDOg7ThAvveCxJ3m7Zv3D5sHmlw/pIl+kScZJh/ybUhVwjklaTZRRlZ2lnrAE2Npf6JpU4DsQxMz/mGHZzgJAmK+fkTNegFoLuO4CzoZz3APNHBmJfz0h/JbkPyTP+cb3JsQj1VJ3Grq3atg2eT6nBjwgUVNZwFi3om5rig=="
 }
