@@ -1,5 +1,14 @@
-
 {
-  "result": "QT0/1id30AKoC36TunRkHlf9U44t8CM7Ilf3H0p7Wj/z3GIiqf3KGVuXb0C3qJf+ueTIIKpAVs443IzBi2vlFgOuP5YUvgCOer6QzycU5w/cC7v4ArijUfgT0Y+qH18d0qSDdw2oNOhItrDjpYV8VQxYzh5kl5VOvqHb8NDl30DC5eBF2kHyXNGftxujdWKqHYbnVY526/sDGzMVyeNxC6t6v5mSeR9JGvz4QIC6JBiDklQVe/HUycaLqQAJv/SAxCRnvTtB+2tbIPNGjSIWapciD/r8rRkvU/I2AhWjYu1SV+0aQQC/Qrk2S+rG2HoBqLmmk3a+3voXr8xRLd1r68HUH+7b2uBGl/3s",
+  "result": {
+    "function": {
+      "function_name": "main",
+      "timestamp": "18896721981025",
+      "url": "/coverage.addr.c.e1c7e035397159b8d0150d0d8fae1807.html",
+      "additional_info": "",
+      "source_file": "main.c",
+      "prev_timestamp": "",
+      "next_timestamp": "18896721981026"
+    }
+  },
   "version": 1
 }
