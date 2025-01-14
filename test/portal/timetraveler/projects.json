@@ -1,0 +1,3519 @@
+{
+  "project_list": [
+    {
+      "id": "zlib1g-1.3.dfsg",
+      "name": "zlib1g",
+      "type": "library",
+      "cve_identifier": "",
+      "vulnerability_category": [""],
+      "projects": [
+        {
+          "id": "zlib1g-1.3.dfsg",
+          "name": "zlib1g",
+          "version": "1.3.dfsg",
+          "description": "",
+          "icon": "",
+          "type": "library"
+        }
+      ],
+      "products": {
+        "report": [
+          {
+            "product_name": "Dynamic Analysis (Offline)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 12000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Dynamic Analysis (Online)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 180000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "payload": [
+          {
+            "product_name": "Instrumented Program (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 100000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 600000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Instrumented Library (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 80000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 120000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 240000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 480000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "dynamic_analysis": [
+          {
+            "product_name": "Function-level Log (ttlog)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 10000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 15000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 30000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 60000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Rule Pack (Fortify)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 50000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 75000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "libfreetype6-2.13.2+dfsg",
+      "name": "libfreetype6",
+      "type": "library",
+      "cve_identifier": "",
+      "vulnerability_category": [""],
+      "projects": [
+        {
+          "id": "libfreetype6-2.13.2+dfsg",
+          "name": "libfreetype6",
+          "version": "2.13.2+dfsg",
+          "description": "",
+          "icon": "",
+          "type": "library"
+        }
+      ],
+      "products": {
+        "report": [
+          {
+            "product_name": "Dynamic Analysis (Offline)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 12000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Dynamic Analysis (Online)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 180000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "payload": [
+          {
+            "product_name": "Instrumented Program (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 100000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 600000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Instrumented Library (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 80000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 120000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 240000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 480000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "dynamic_analysis": [
+          {
+            "product_name": "Function-level Log (ttlog)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 10000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 15000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 30000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 60000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Rule Pack (Fortify)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 50000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 75000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "libtiff6-4.5.1+git230720",
+      "name": "libtiff6",
+      "type": "library",
+      "cve_identifier": "",
+      "vulnerability_category": [""],
+      "projects": [
+        {
+          "id": "libtiff6-4.5.1+git230720",
+          "name": "libtiff6",
+          "version": "4.5.1+git230720",
+          "description": "",
+          "icon": "",
+          "type": "library"
+        }
+      ],
+      "products": {
+        "report": [
+          {
+            "product_name": "Dynamic Analysis (Offline)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 12000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Dynamic Analysis (Online)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 180000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "payload": [
+          {
+            "product_name": "Instrumented Program (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 100000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 600000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Instrumented Library (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 80000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 120000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 240000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 480000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "dynamic_analysis": [
+          {
+            "product_name": "Function-level Log (ttlog)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 10000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 15000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 30000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 60000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Rule Pack (Fortify)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 50000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 75000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "liblz4-1-1.9.4",
+      "name": "liblz4-1",
+      "type": "library",
+      "cve_identifier": "",
+      "vulnerability_category": [""],
+      "projects": [
+        {
+          "id": "liblz4-1-1.9.4",
+          "name": "liblz4-1",
+          "version": "1.9.4",
+          "description": "",
+          "icon": "",
+          "type": "library"
+        }
+      ],
+      "products": {
+        "report": [
+          {
+            "product_name": "Dynamic Analysis (Offline)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 12000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Dynamic Analysis (Online)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 180000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "payload": [
+          {
+            "product_name": "Instrumented Program (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 100000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 600000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Instrumented Library (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 80000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 120000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 240000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 480000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "dynamic_analysis": [
+          {
+            "product_name": "Function-level Log (ttlog)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 10000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 15000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 30000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 60000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Rule Pack (Fortify)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 50000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 75000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "libogg0-1.3.5",
+      "name": "libogg0",
+      "type": "library",
+      "cve_identifier": "",
+      "vulnerability_category": [""],
+      "projects": [
+        {
+          "id": "libogg0-1.3.5",
+          "name": "libogg0",
+          "version": "1.3.5",
+          "description": "",
+          "icon": "",
+          "type": "library"
+        }
+      ],
+      "products": {
+        "report": [
+          {
+            "product_name": "Dynamic Analysis (Offline)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 12000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Dynamic Analysis (Online)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 180000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "payload": [
+          {
+            "product_name": "Instrumented Program (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 100000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 600000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Instrumented Library (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 80000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 120000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 240000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 480000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "dynamic_analysis": [
+          {
+            "product_name": "Function-level Log (ttlog)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 10000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 15000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 30000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 60000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Rule Pack (Fortify)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 50000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 75000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "libopus0-1.4",
+      "name": "libopus0",
+      "type": "library",
+      "cve_identifier": "",
+      "vulnerability_category": [""],
+      "projects": [
+        {
+          "id": "libopus0-1.4",
+          "name": "libopus0",
+          "version": "1.4",
+          "description": "",
+          "icon": "",
+          "type": "library"
+        }
+      ],
+      "products": {
+        "report": [
+          {
+            "product_name": "Dynamic Analysis (Offline)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 12000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Dynamic Analysis (Online)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 180000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "payload": [
+          {
+            "product_name": "Instrumented Program (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 100000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 600000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Instrumented Library (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 80000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 120000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 240000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 480000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "dynamic_analysis": [
+          {
+            "product_name": "Function-level Log (ttlog)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 10000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 15000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 30000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 60000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Rule Pack (Fortify)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 50000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 75000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "libgif7-5.2.2",
+      "name": "libgif7",
+      "type": "library",
+      "cve_identifier": "",
+      "vulnerability_category": [""],
+      "projects": [
+        {
+          "id": "libgif7-5.2.2",
+          "name": "libgif7",
+          "version": "5.2.2",
+          "description": "",
+          "icon": "",
+          "type": "library"
+        }
+      ],
+      "products": {
+        "report": [
+          {
+            "product_name": "Dynamic Analysis (Offline)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 12000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Dynamic Analysis (Online)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 180000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "payload": [
+          {
+            "product_name": "Instrumented Program (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 100000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 600000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Instrumented Library (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 80000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 120000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 240000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 480000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "dynamic_analysis": [
+          {
+            "product_name": "Function-level Log (ttlog)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 10000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 15000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 30000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 60000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Rule Pack (Fortify)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 50000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 75000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "liblzo2-2-2.10",
+      "name": "liblzo2-2",
+      "type": "library",
+      "cve_identifier": "",
+      "vulnerability_category": [""],
+      "projects": [
+        {
+          "id": "liblzo2-2-2.10",
+          "name": "liblzo2-2",
+          "version": "2.10",
+          "description": "",
+          "icon": "",
+          "type": "library"
+        }
+      ],
+      "products": {
+        "report": [
+          {
+            "product_name": "Dynamic Analysis (Offline)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 12000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Dynamic Analysis (Online)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 180000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "payload": [
+          {
+            "product_name": "Instrumented Program (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 100000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 600000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Instrumented Library (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 80000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 120000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 240000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 480000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "dynamic_analysis": [
+          {
+            "product_name": "Function-level Log (ttlog)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 10000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 15000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 30000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 60000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Rule Pack (Fortify)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 50000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 75000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "libspeex1-1.2.1",
+      "name": "libspeex1",
+      "type": "library",
+      "cve_identifier": "",
+      "vulnerability_category": [""],
+      "projects": [
+        {
+          "id": "libspeex1-1.2.1",
+          "name": "libspeex1",
+          "version": "1.2.1",
+          "description": "",
+          "icon": "",
+          "type": "library"
+        }
+      ],
+      "products": {
+        "report": [
+          {
+            "product_name": "Dynamic Analysis (Offline)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 12000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Dynamic Analysis (Online)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 180000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "payload": [
+          {
+            "product_name": "Instrumented Program (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 100000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 600000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Instrumented Library (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 80000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 120000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 240000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 480000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "dynamic_analysis": [
+          {
+            "product_name": "Function-level Log (ttlog)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 10000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 15000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 30000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 60000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Rule Pack (Fortify)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 50000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 75000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "libmpg123-0t64-1.32.5",
+      "name": "libmpg123-0t64",
+      "type": "library",
+      "cve_identifier": "",
+      "vulnerability_category": [""],
+      "projects": [
+        {
+          "id": "libmpg123-0t64-1.32.5",
+          "name": "libmpg123-0t64",
+          "version": "1.32.5",
+          "description": "",
+          "icon": "",
+          "type": "library"
+        }
+      ],
+      "products": {
+        "report": [
+          {
+            "product_name": "Dynamic Analysis (Offline)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 12000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Dynamic Analysis (Online)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 180000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "payload": [
+          {
+            "product_name": "Instrumented Program (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 100000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 600000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Instrumented Library (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 80000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 120000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 240000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 480000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "dynamic_analysis": [
+          {
+            "product_name": "Function-level Log (ttlog)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 10000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 15000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 30000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 60000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Rule Pack (Fortify)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 50000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 75000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "libgraphicsmagick-q16-3t64-1.4+really1.3.42",
+      "name": "libgraphicsmagick-q16-3t64",
+      "type": "library",
+      "cve_identifier": "",
+      "vulnerability_category": [""],
+      "projects": [
+        {
+          "id": "libgraphicsmagick-q16-3t64-1.4+really1.3.42",
+          "name": "libgraphicsmagick-q16-3t64",
+          "version": "1.4+really1.3.42",
+          "description": "",
+          "icon": "",
+          "type": "library"
+        }
+      ],
+      "products": {
+        "report": [
+          {
+            "product_name": "Dynamic Analysis (Offline)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 12000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Dynamic Analysis (Online)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 180000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "payload": [
+          {
+            "product_name": "Instrumented Program (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 100000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 600000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Instrumented Library (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 80000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 120000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 240000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 480000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "dynamic_analysis": [
+          {
+            "product_name": "Function-level Log (ttlog)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 10000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 15000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 30000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 60000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Rule Pack (Fortify)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 50000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 75000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "liba52-0.7.4",
+      "name": "liba52",
+      "type": "library",
+      "cve_identifier": "",
+      "vulnerability_category": [""],
+      "projects": [
+        {
+          "id": "liba52-0.7.4",
+          "name": "liba52",
+          "version": "0.7.4",
+          "description": "",
+          "icon": "",
+          "type": "library"
+        }
+      ],
+      "products": {
+        "report": [
+          {
+            "product_name": "Dynamic Analysis (Offline)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 12000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Dynamic Analysis (Online)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 180000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "payload": [
+          {
+            "product_name": "Instrumented Program (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 100000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 600000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Instrumented Library (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 80000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 120000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 240000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 480000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "dynamic_analysis": [
+          {
+            "product_name": "Function-level Log (ttlog)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 10000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 15000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 30000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 60000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Rule Pack (Fortify)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 50000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 75000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "libdca0-0.0.7",
+      "name": "libdca0",
+      "type": "library",
+      "cve_identifier": "",
+      "vulnerability_category": [""],
+      "projects": [
+        {
+          "id": "libdca0-0.0.7",
+          "name": "libdca0",
+          "version": "0.0.7",
+          "description": "",
+          "icon": "",
+          "type": "library"
+        }
+      ],
+      "products": {
+        "report": [
+          {
+            "product_name": "Dynamic Analysis (Offline)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 12000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Dynamic Analysis (Online)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 180000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "payload": [
+          {
+            "product_name": "Instrumented Program (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 100000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 600000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Instrumented Library (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 80000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 120000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 240000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 480000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "dynamic_analysis": [
+          {
+            "product_name": "Function-level Log (ttlog)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 10000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 15000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 30000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 60000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Rule Pack (Fortify)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 50000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 75000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "libwmf-0.2.13",
+      "name": "libwmf",
+      "type": "library",
+      "cve_identifier": "",
+      "vulnerability_category": [""],
+      "projects": [
+        {
+          "id": "libwmf-0.2.13",
+          "name": "libwmf",
+          "version": "0.2.13",
+          "description": "",
+          "icon": "",
+          "type": "library"
+        }
+      ],
+      "products": {
+        "report": [
+          {
+            "product_name": "Dynamic Analysis (Offline)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 12000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Dynamic Analysis (Online)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 180000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "payload": [
+          {
+            "product_name": "Instrumented Program (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 100000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 600000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Instrumented Library (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 80000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 120000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 240000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 480000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "dynamic_analysis": [
+          {
+            "product_name": "Function-level Log (ttlog)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 10000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 15000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 30000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 60000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Rule Pack (Fortify)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 50000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 75000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "libvorbisidec1-1.2.1+git20180316",
+      "name": "libvorbisidec1",
+      "type": "library",
+      "cve_identifier": "",
+      "vulnerability_category": [""],
+      "projects": [
+        {
+          "id": "libvorbisidec1-1.2.1+git20180316",
+          "name": "libvorbisidec1",
+          "version": "1.2.1+git20180316",
+          "description": "",
+          "icon": "",
+          "type": "library"
+        }
+      ],
+      "products": {
+        "report": [
+          {
+            "product_name": "Dynamic Analysis (Offline)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 12000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Dynamic Analysis (Online)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 180000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "payload": [
+          {
+            "product_name": "Instrumented Program (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 100000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 600000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Instrumented Library (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 80000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 120000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 240000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 480000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "dynamic_analysis": [
+          {
+            "product_name": "Function-level Log (ttlog)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 10000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 15000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 30000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 60000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Rule Pack (Fortify)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 50000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 75000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "libunrar5t64-nonfree-7.0.7",
+      "name": "libunrar5t64",
+      "type": "library",
+      "cve_identifier": "",
+      "vulnerability_category": [""],
+      "projects": [
+        {
+          "id": "libunrar5t64-nonfree-7.0.7",
+          "name": "libunrar5t64",
+          "version": "nonfree-7.0.7",
+          "description": "",
+          "icon": "",
+          "type": "library"
+        }
+      ],
+      "products": {
+        "report": [
+          {
+            "product_name": "Dynamic Analysis (Offline)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 12000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Dynamic Analysis (Online)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 180000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "payload": [
+          {
+            "product_name": "Instrumented Program (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 100000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 600000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Instrumented Library (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 80000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 120000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 240000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 480000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "dynamic_analysis": [
+          {
+            "product_name": "Function-level Log (ttlog)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 10000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 15000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 30000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 60000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Rule Pack (Fortify)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 50000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 75000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "libwxsvg3t64-1.5.24+dfsg",
+      "name": "libwxsvg3t64",
+      "type": "library",
+      "cve_identifier": "",
+      "vulnerability_category": [""],
+      "projects": [
+        {
+          "id": "libwxsvg3t64-1.5.24+dfsg",
+          "name": "libwxsvg3t64",
+          "version": "1.5.24+dfsg",
+          "description": "",
+          "icon": "",
+          "type": "library"
+        }
+      ],
+      "products": {
+        "report": [
+          {
+            "product_name": "Dynamic Analysis (Offline)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 12000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Dynamic Analysis (Online)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 180000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "payload": [
+          {
+            "product_name": "Instrumented Program (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 100000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 600000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Instrumented Library (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 80000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 120000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 240000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 480000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "dynamic_analysis": [
+          {
+            "product_name": "Function-level Log (ttlog)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 10000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 15000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 30000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 60000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Rule Pack (Fortify)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 50000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 75000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "libaudiofile1-0.3.6",
+      "name": "libaudiofile1",
+      "type": "library",
+      "cve_identifier": "",
+      "vulnerability_category": [""],
+      "projects": [
+        {
+          "id": "libaudiofile1-0.3.6",
+          "name": "libaudiofile1",
+          "version": "0.3.6",
+          "description": "",
+          "icon": "",
+          "type": "library"
+        }
+      ],
+      "products": {
+        "report": [
+          {
+            "product_name": "Dynamic Analysis (Offline)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 12000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Dynamic Analysis (Online)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 180000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "payload": [
+          {
+            "product_name": "Instrumented Program (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 100000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 600000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Instrumented Library (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 80000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 120000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 240000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 480000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "dynamic_analysis": [
+          {
+            "product_name": "Function-level Log (ttlog)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 10000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 15000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 30000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 60000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Rule Pack (Fortify)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 50000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 75000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "libxml2-2.9.14+dfsg",
+      "name": "libxml2",
+      "type": "library",
+      "cve_identifier": "",
+      "vulnerability_category": [""],
+      "projects": [
+        {
+          "id": "libxml2-2.9.14+dfsg",
+          "name": "libxml2",
+          "version": "2.9.14+dfsg",
+          "description": "",
+          "icon": "",
+          "type": "library"
+        }
+      ],
+      "products": {
+        "report": [
+          {
+            "product_name": "Dynamic Analysis (Offline)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 12000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Dynamic Analysis (Online)",
+            "product_plans": [
+              {
+                "plan_name": "Per Year",
+                "plan_price": 180000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "payload": [
+          {
+            "product_name": "Instrumented Program (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 100000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 600000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Instrumented Library (Logger)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 80000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 162000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 120000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 243000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 240000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 480000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ],
+        "dynamic_analysis": [
+          {
+            "product_name": "Function-level Log (ttlog)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 10000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 15000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 30000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 60000,
+                "link": "https://www.google.com"
+              }
+            ]
+          },
+          {
+            "product_name": "Rule Pack (Fortify)",
+            "product_plans": [
+              {
+                "plan_name": "One-time",
+                "plan_price": 50000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "One-time Package",
+                "plan_price": 54000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual Upgrade",
+                "plan_price": 75000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "Annual package",
+                "plan_price": 810000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "1 Payload, 5 Versions",
+                "plan_price": 150000,
+                "link": "https://www.google.com"
+              },
+              {
+                "plan_name": "10 Payload, 1 Versions",
+                "plan_price": 300000,
+                "link": "https://www.google.com"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

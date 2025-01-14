@@ -1,0 +1,21 @@
+{
+  "project_list": [
+    {
+      "id": "php8.3-cgi-8.3.6",
+      "name": "php8.3-cgi",
+      "type": "software",
+      "cve_identifier": "CVE-2024-4577",
+      "vulnerability_category": ["Argument Injection"],
+      "projects": [
+        {
+          "id": "php8.3-cgi-8.3.6",
+          "name": "php8.3-cgi",
+          "version": "8.3.6",
+          "description": "In PHP versions 8.1.* before 8.1.29, 8.2.* before 8.2.20, 8.3.* before 8.3.8, when using Apache and PHP-CGI on Windows, if the system is set up to use certain code pages, Windows may use Best-Fit behavior to replace characters in command line given to Win32 API functions. PHP CGI module may misinterpret those characters as PHP options, which may allow a malicious user to pass options to PHP binary being run, and thus reveal the source code of scripts, run arbitrary PHP code on the server, etc.",
+          "icon": "php8.png",
+          "type": "software"
+        }
+      ]
+    }
+  ]
+}
