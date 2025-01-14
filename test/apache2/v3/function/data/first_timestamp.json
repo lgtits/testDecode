@@ -1,14 +1,1 @@
-{
-  "result": {
-    "function": {
-      "function_name": "main",
-      "timestamp": "18896721981025",
-      "url": "/coverage.addr.c.e1c7e035397159b8d0150d0d8fae1807.html",
-      "additional_info": "",
-      "source_file": "main.c",
-      "prev_timestamp": "",
-      "next_timestamp": "18896721981026"
-    }
-  },
-  "version": 1
-}
+{"result": {"info": {"fn_name": "main", "is_call_different": True, "fn_params": [{"buffer_size": 0, "compiler_type": "i32", "dimension": 0, "param_name": "param", "value": {"raw_value": "2", "hex_value": "", "points_to": [], "is_string_type": False}}, {"buffer_size": 64, "compiler_type": "i8**", "dimension": 2, "one_d_length": 2, "param_name": "param", "value": {"raw_value": "0x7fffd13f35b8", "points_to": [{"hex_value": "/x2f/x68/x6f/x6d/x65/x2f/x61/x6a/x75/x62/x75/x6e/x74/x75/x2f/x44/x6f/x77/x6e/x6c/x6f/x61/x64/x73/x2f/x69/x6e/x73/x74/x61/x6c/x6c/x2f/x61/x70/x61/x63/x68/x65/x32/x2f/x62/x69/x6e/x2f/x68/x74/x74/x70/x64/x0/x2d/x58/x0/x43/x4f/x4c/x4f/x52/x54/x45/x52/x4d/x3d", "index": {"one_d_index": 0}, "points_to": [], "raw_value": "0x7fffd13f570c", "is_string_type": False}, {"hex_value": "/x2d/x58/x0/x43/x4f/x4c/x4f/x52/x54/x45/x52/x4d/x3d/x74/x72/x75/x65/x63/x6f/x6c/x6f/x72/x0/x54/x45/x52/x4d/x3d/x78/x74/x65/x72/x6d/x2d/x32/x35/x36/x63/x6f/x6c/x6f/x72/x0/x50/x41/x54/x48/x3d/x2f/x75/x73/x72/x2f/x6c/x6f/x63/x61/x6c/x2f/x73/x62/x69/x6e/x3a", "index": {"one_d_index": 1}, "points_to": [], "raw_value": "0x7fffd13f573f", "is_string_type": True}]}}]}}, "version": 1}
